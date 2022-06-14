@@ -9,3 +9,31 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-color: rgb(255, 55,251);
+}
+
+header {
+    text-align:center;
+    background-color: lightblue;
+}
+
+footer {
+    background-color: lightblue;
+}
+
+p {
+    color: blue;
+    font-style: italic;
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+    border: 5px solid black;
+}
+
+ul {
+    font-family: fantasy, 'Times New Roman', Times, serif;
+}
